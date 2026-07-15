@@ -5,7 +5,7 @@ Developed an interactive Insurance Analytics Dashboard using Power BI, SQL, and 
 This project was developed to analyze insurance policy data and provide actionable business insights using SQL, Excel, and Power BI.
 
 ### Project Workflow
-1. Collected and reviewed the insurance dataset provided during the internship.
+1. Collected and reviewed the insurance dataset provided.
 2. Cleaned and validated the data by handling missing values, removing inconsistencies, and ensuring accurate data types.
 3. Imported the data into SQL and wrote queries to analyze policy details, customer information, claims, premiums, and payment status.
 4. Loaded the processed data into Power BI and created relationships between the tables using a common key.
